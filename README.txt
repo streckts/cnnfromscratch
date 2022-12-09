@@ -1,5 +1,3 @@
-Hello Git and Github
+https://medium.com/@streck0101/building-a-cnn-from-scratch-and-comparing-to-a-cnn-built-in-keras-e9be6ac8dcc7
 
-Wow, nice shoes. Where'd you get them, the toilet store?
-
-Third edit, third test. We shall see if the simple command will accomplish the task.
+Link to blog post
